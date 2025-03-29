@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FaShoppingCart, FaTrash } from "react-icons/fa";
-// import "tailwindcss/tailwind.css";
+
 
 const products = [
   { id: 1, title: "Apple Watch", desc: "Series 5 SE", price: 529.99, img: "https://bgr.com/wp-content/uploads/2024/09/apple-iphone-16-pro-max-plus-watch-10-ultra-airpods-4-launch-event-19.jpg?resize=1020%2C574&quality=82" },
